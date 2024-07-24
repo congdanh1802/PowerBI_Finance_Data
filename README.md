@@ -1,6 +1,7 @@
 # Finance Data PowerBI Dashboard
 
 ## Problem Description
+This project is to analyse a financial record of an individual
 
 ## Project Goals
 
